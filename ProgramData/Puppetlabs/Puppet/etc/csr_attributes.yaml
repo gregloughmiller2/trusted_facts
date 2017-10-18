@@ -1,0 +1,12 @@
+---
+extension_requests:
+## Custom trusted extension
+  1.3.6.1.4.1.34380.1.2.1.1: 'westrock'
+## The site code for WestRock'
+  1.3.6.1.4.1.34380.1.2.1.2: 'sydney'
+## The tier of the node'
+  1.3.6.1.4.1.34380.1.2.1.3: 'prod'
+## The application for this node
+  1.3.6.1.4.1.34380.1.2.1.4: 'kiwi'
+## The role or instance that will be on this node    
+  1.3.6.1.4.1.34380.1.2.1.5: 'DB'
