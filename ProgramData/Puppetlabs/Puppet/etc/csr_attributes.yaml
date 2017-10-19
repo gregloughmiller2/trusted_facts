@@ -3,10 +3,10 @@ extension_requests:
 ## Custom trusted extension
   1.3.6.1.4.1.34380.1.2.1.1: 'westrock'
 ## The site code for WestRock'
-  1.3.6.1.4.1.34380.1.2.1.2: 'sydney'
+  pp_datacenter: 'sydney'
 ## The tier of the node'
-  1.3.6.1.4.1.34380.1.2.1.3: 'prod'
+  pp_apptier: 'prod'
 ## The application for this node
-  1.3.6.1.4.1.34380.1.2.1.4: 'kiwi'
+  pp_application: 'kiwi'
 ## The role or instance that will be on this node    
-  1.3.6.1.4.1.34380.1.2.1.5: 'DB'
+  pp_instance_id: 'DB'
