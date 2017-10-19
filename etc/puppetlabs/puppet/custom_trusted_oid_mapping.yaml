@@ -3,15 +3,4 @@ oid_mapping:
   1.3.6.1.4.1.34380.1.2.1.1:
     shortname: 'westrockcustom'
     longname: 'The long name for Westrock custom'
-  1.3.6.1.4.1.34380.1.2.1.2:
-    shortname: 'wr_site'
-    longname: 'The site code for WestRock'
-  1.3.6.1.4.1.34380.1.2.1.3:
-    shortname: 'wr_tier'
-    longname: 'The tier of the node'
-  1.3.6.1.4.1.34380.1.2.1.4:
-    shortname: 'wr_app'
-    longname: 'The application for this node'
-  1.3.6.1.4.1.34380.1.2.1.5:
-    shortname: 'wr_role'
-    longname: 'The role or instance that will be on this node'
+  
